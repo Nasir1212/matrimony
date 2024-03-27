@@ -55,27 +55,8 @@
     <label for="text"  class="d-none">- Sign in with -</label>
     <div class="sign-in py-3 d-none">
     <a href="/social-auth/facebook"><i class="fa fa-facebook"></i> Facebook</a>
-    <?php 
-    $end_point = 'https://accounts.google.com/o/oauth2/v2/auth';
-$client_id = '518234325458-hpos79g4gv4e3mu8guplhg227cq0ltnr.apps.googleusercontent.com';
-$client_secret = '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';
-$redirect_uri = "http://127.0.0.1:8080/login_google_redirect";
-$scope = 'https://www.googleapis.com/auth/drive.metadata.readonly';
-
-
-$authUrl = $end_point.'?'.http_build_query([
-    'client_id'              => $client_id,
-    'redirect_uri'           => $redirect_uri,              
-    'scope'                  => $scope,
-    'access_type'            => 'online',
-    'include_granted_scopes' => 'true',
-    'state'                  => 'state_parameter_passthrough_value',
-    'response_type'          => 'code',
-]);
-
-    
-    ?>
-    <a href="{{$authUrl}}"><i class="fa fa-google"></i> Google</a>
+  
+    <a href=""><i class="fa fa-google"></i> Google</a>
     </div>
     <p>Don’t have an account? <strong><a href="/signup">Signup Now</a></strong></p>
     </div>
