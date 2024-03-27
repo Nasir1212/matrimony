@@ -1,0 +1,32 @@
+[31-Dec-2023 09:12:05 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/ordhang1/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ordhang1/public_html/routes/api.php on line 17
+[31-Dec-2023 09:12:08 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/ordhang1/public_html/routes/web.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ordhang1/public_html/routes/web.php on line 19
+[31-Dec-2023 09:12:19 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Broadcast" not found in /home/ordhang1/public_html/routes/channels.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ordhang1/public_html/routes/channels.php on line 16
+[31-Dec-2023 09:54:18 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/ordhang1/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ordhang1/public_html/routes/api.php on line 17
+[31-Dec-2023 09:54:20 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/ordhang1/public_html/routes/api.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ordhang1/public_html/routes/api.php on line 17
+[31-Dec-2023 09:54:22 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Artisan" not found in /home/ordhang1/public_html/routes/console.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/ordhang1/public_html/routes/console.php on line 17
+[31-Dec-2023 09:54:25 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/ordhang1/public_html/routes/web.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ordhang1/public_html/routes/web.php on line 19
+[31-Dec-2023 09:54:26 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Support\Facades\Route" not found in /home/ordhang1/public_html/routes/web.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/ordhang1/public_html/routes/web.php on line 19

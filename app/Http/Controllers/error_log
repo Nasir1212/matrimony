@@ -1,0 +1,12 @@
+[31-Dec-2023 09:12:49 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/ordhang1/public_html/app/Http/Controllers/home_controller.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/ordhang1/public_html/app/Http/Controllers/home_controller.php on line 26
+[31-Dec-2023 09:12:53 UTC] PHP Fatal error:  Uncaught Error: Class "Illuminate\Routing\Controller" not found in /home/ordhang1/public_html/app/Http/Controllers/Controller.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/ordhang1/public_html/app/Http/Controllers/Controller.php on line 10
+[31-Dec-2023 09:12:56 UTC] PHP Fatal error:  Uncaught Error: Class "App\Http\Controllers\Controller" not found in /home/ordhang1/public_html/app/Http/Controllers/auth_controller.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/ordhang1/public_html/app/Http/Controllers/auth_controller.php on line 13

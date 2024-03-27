@@ -1,0 +1,16 @@
+[31-Dec-2023 10:52:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ordhang1/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ordhang1/public_html/config/filesystems.php on line 16
+[31-Dec-2023 10:52:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ordhang1/public_html/config/filesystems.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ordhang1/public_html/config/filesystems.php on line 16
+[31-Dec-2023 10:52:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ordhang1/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ordhang1/public_html/config/mail.php on line 16
+[31-Dec-2023 10:52:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/ordhang1/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/ordhang1/public_html/config/mail.php on line 16

@@ -1,0 +1,4 @@
+[31-Dec-2023 08:40:20 UTC] PHP Fatal error:  Uncaught Error: Class "App\Models\Register" not found in /home/ordhang1/public_html/resources/views/pages/ai-intelegent.blade.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ordhang1/public_html/resources/views/pages/ai-intelegent.blade.php on line 9

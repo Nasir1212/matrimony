@@ -1,0 +1,253 @@
+@media(min-width:1200px) and (max-width:1500px) {}
+
+@media(min-width:992px) and (max-width:1200px) {
+    .right-menu {
+        position: absolute;
+        top: -55px
+    }
+    ul.menu li.item {
+        margin-right: 10px
+    }
+    ul.menu li.item a {
+        font-size: 16px
+    }
+    .right-menu ul li a {
+        font-size: 16px
+    }
+    .hero-section {
+        padding: 100px 0
+    }
+    .featured-biodata {
+        padding: 50px 0
+    }
+    .contact-form {
+        padding: 35px
+    }
+}
+
+@media(min-width:768px) and (max-width:991px) {
+    .right-menu {
+        position: absolute;
+        top: -55px
+    }
+    .mean-container .mean-bar {
+        right: -245px;
+        margin-top: 3px
+    }
+    .logo {
+        max-width: 100%;
+        width: 100%
+    }
+    .hero-title h2 {
+        font-size: 32px
+    }
+    .hero-content a {
+        font-weight: 500;
+        font-size: 16px;
+        margin-bottom: 10px
+    }
+    .hero-section {
+        padding: 50px 0
+    }
+    .submit-form button {
+        padding: 5px 10px
+    }
+    .featured-biodata {
+        padding: 50px 0
+    }
+    .f-border::before {
+        bottom: 28px
+    }
+    .data-filter {
+        padding: 20px
+    }
+    .contact-form {
+        padding: 29px
+    }
+    .biodata-card {
+        margin-bottom: 25px !important
+    }
+}
+
+@media(max-width:767px) {
+    header.sticky .navbar-nav a.nav-item {
+        line-height: 30px;
+        border-bottom: 1px solid #ddd
+    }
+    .right-menu {
+        display: none
+    }
+    .mean-container .mean-bar {
+        right: 0;
+        margin-top: 3px
+    }
+    .mobile-menu {
+        position: absolute;
+        right: 0;
+        top: -30px
+    }
+    .hero-section {
+        padding: 45px 0
+    }
+    .hero-title h2 {
+        font-size: 20px;
+        line-height: 26px
+    }
+    .hero-content a {
+        font-size: 12px;
+        margin-bottom: 10px;
+        margin-right: 10px
+    }
+    .recent-title {
+        color: #fff;
+        display: block;
+        margin-bottom: 35px;
+        text-align: center
+    }
+    .recent-item-register {
+        margin: auto
+    }
+    .data-filter {
+        padding: 5px
+    }
+    .submit-form button {
+        padding: 5px 11px
+    }
+    .featured-biodata {
+        padding: 20px 0
+    }
+    .about-section {
+        margin-top: 20px
+    }
+    .copyright-text p {
+        line-height: 24px
+    }
+    .f-border::before {
+        display: none
+    }
+    .social-icon {
+        padding: 20px 0;
+        text-align: left
+    }
+    .social-icon a {
+        margin-left: 0;
+        margin-right: 10px
+    }
+    .footer-menu {
+        position: relative;
+        top: 0;
+        left: 0;
+        text-align: left
+    }
+    .achivement-content {
+        margin-top: 20px;
+        display: block;
+        overflow: hidden
+    }
+    .achivement-content .card {
+        width: 95%
+    }
+    .biodata-card .biodata-body label {
+        padding: 5px
+    }
+    .biodata-header {
+        padding: 30px 0
+    }
+    .biodata-card .biodata-body {
+        padding: 25px 20px
+    }
+    .about-content {
+        padding: 20px !important
+    }
+    .social-content img {
+        width: 100px
+    }
+    .social-content a {
+        font-size: 18px
+    }
+    .contact-form {
+        padding: 29px
+    }
+    .biodata-card {
+        margin-bottom: 25px !important
+    }
+    .breadcrumbs-title h4 {
+        margin-left: 14px
+    }
+}
+
+@media only screen and (min-width:480px) and (max-width:767px) {
+    .container {
+        width: 450px
+    }
+    .right-menu {
+        position: absolute;
+        top: -75px;
+        right: 75px
+    }
+    .mean-container .mean-bar {
+        right: 0;
+        margin-top: 3px
+    }
+    .mobile-menu {
+        position: absolute;
+        right: 0;
+        top: -30px
+    }
+    .hero-section {
+        padding: 45px 0
+    }
+    .hero-title h2 {
+        font-size: 24px;
+        line-height: 30px
+    }
+    .hero-content a {
+        font-size: 12px;
+        margin-bottom: 10px;
+        margin-right: 10px
+    }
+    .recent-title {
+        color: #fff;
+        display: block;
+        margin-bottom: 35px;
+        text-align: center
+    }
+    .recent-item-register {
+        margin: 0 5px
+    }
+    .data-filter {
+        margin-bottom: 20px
+    }
+    .featured-biodata {
+        padding: 20px 0
+    }
+    .about-section {
+        margin-top: 20px
+    }
+    .copyright-text p {
+        line-height: 10px
+    }
+    .f-border::before {
+        display: none
+    }
+    .social-icon {
+        padding: 20px 0;
+        text-align: left
+    }
+    .social-icon a {
+        margin-left: 0;
+        margin-right: 10px
+    }
+    .footer-menu {
+        position: relative;
+        top: 0;
+        left: 0
+    }
+    .about-content {
+        padding: 30px 20px !important
+    }
+    .social-content a {
+        font-size: 18px
+    }
+}
+

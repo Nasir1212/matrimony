@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Allow: /blog/*
+Allow: /login/
+Disallow: /.*\.(txt|png|jpg|pdf)$
+Disallow: /admin.ordhangini.com/*
